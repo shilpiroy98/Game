@@ -30,7 +30,7 @@ public class Main : MonoBehaviour
             top.GetComponent<AIPlayButton>().Play();
             while (name != null && name.value != 1)
             {
-                name.value += 0.05f;
+                name.value += 0.1f;
                 yield return new WaitForSeconds(0.4f);
             }
             if (name == null)
