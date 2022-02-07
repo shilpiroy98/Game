@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayButton.cs">
+    <Files>
+      <File FileName="Assets/PlayButton.cs" Line="15" Column="18" />
+      <File FileName="Assets/AIPlayButton.cs" Line="13" Column="1" />
+      <File FileName="Assets/Timer.cs" Line="12" Column="1" />
+      <File FileName="Assets/PlayerClick.cs" Line="10" Column="1" />
+      <File FileName="Assets/Main.cs" Line="19" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PlayButton.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1e5ecc2c-ca9b-46b3-a046-54a862e25fb0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
